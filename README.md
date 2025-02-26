@@ -51,6 +51,7 @@ The server will be running at http://localhost:3000.
 3. Test operations on users, thoughts, and friend lists.
 4. Insomnia should look similar to the image below:
  <img width="1176" alt="Screenshot 2025-02-25 at 7 38 01 PM" src="https://github.com/user-attachments/assets/8422abc6-0aa3-4c13-8ca7-f02b89a115c5" />
+ 5. Video Walkthrough: https://drive.google.com/file/d/1eCLUJWpqNYTGYWvLMz14WCog55aOA1do/view?usp=sharing
 
 ## Acknowledgements
 
