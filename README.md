@@ -7,6 +7,7 @@
 - [Installation](#installation)
 - [Technologies Used](#technologies-used)
 - [Usage](#usage)
+- [Acknowledgements](#acknowledgements)
 - [License](#license)
 
 
@@ -20,11 +21,11 @@ It allows users to share thoughts, react to friends' thoughts, and manage a frie
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/mbauer99621/Social-Network-App
    
 2. Navigate into the project directory:
    ```bash
-   cd <project-directory>
+   cd social-network-app
 
 3. Install dependencies:
    ```bash
@@ -51,6 +52,11 @@ The server will be running at http://localhost:3000.
 4. Insomnia should look similar to the image below:
  <img width="1176" alt="Screenshot 2025-02-25 at 7 38 01 PM" src="https://github.com/user-attachments/assets/8422abc6-0aa3-4c13-8ca7-f02b89a115c5" />
 
+## Acknowledgements
+
+- [Express.js](https://expressjs.com/) for the web framework.
+- [MongoDB](https://www.mongodb.com/) for the database.
+- [Mongoose](https://mongoosejs.com/) for MongoDB ODM.
 
 ## License
 
